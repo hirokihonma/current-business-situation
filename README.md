@@ -6,13 +6,5 @@
 ## Usecase
 * 自社のビジネス方針を決めたいとき
 
-## Index
-
-### 外部環境の把握
-* 市場
-* 競合
-
-### 内部環境の把握
-* 事業主
-
-### KSFの抽出
+## Link
+* [Wiki](https://github.com/hirokihonma/current-business-situation/wiki/Index)
