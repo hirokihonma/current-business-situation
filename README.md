@@ -7,4 +7,4 @@
 * 自社のビジネス方針を決めたいとき
 
 ## Link
-* [Wiki](https://github.com/hirokihonma/current-business-situation/wiki/Index)
+* [Wiki](https://github.com/hirokihonma/current-business-situation/wiki)
